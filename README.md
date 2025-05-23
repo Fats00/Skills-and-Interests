@@ -1,16 +1,19 @@
 <h1>Skills and Interests<h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Repository consists of my personal experience using "STAR" techniques and the skills and interests I discovered through online platforms offering tests. As you scroll down, you will 
+come across my "STAR" breakdown and screenshots serving as evidence of taking the online tests as well as the results I received. 
+Enjoy getting to know me through my personality assessment!
 <br />
 
 
 <h2>Reflection: Star Technique</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-- <b>Diskpart</b>
-- <b>Diskpart</b>
+- <b>S – Situation:</b> I took a skills and interests assessments to explore what roles fit me best.
+- <b>T – Task:</b> My goal was to identify what I’m naturally good at and what I enjoy doing so I can choose a suitable career path.
+- <b>A – Action:</b> I completed an online assessments and also listed out my personal achievements.</b>
+- <b>R – Result:</b> I discovered that I’m strong in communication and leadership, and I enjoy helping others and solving problems.</b>
+
 
 <h2>Screenshots:</h2>
 
